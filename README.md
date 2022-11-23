@@ -1,2 +1,2 @@
-# firefox-user.js
-personal firefox user.js to make the browser usable
+# Firefox user.js
+My personal user.js file to configure Firefox to what I like.
